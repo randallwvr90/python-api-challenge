@@ -13,6 +13,6 @@ Using Python requests, API's and JSON transversals to answer the question" "What
     * Cloudiness vs. Latitude
     * Wind Speed vs. Latitude
   * A linear regression will be run on each of these relationships. Each of the above relationships will be displayed along with a linear regression on a pair of plots: one for the Northern Hemisphere and one for the Southern Hemisphere. 
-  * The analysis and data will be saved in a CSV file and PNG images of each scatter plot. These will be saved in the WeatherPyResults directory. 
+  * The analysis and data will be saved in a CSV file and PNG images of each scatter plot. These will be saved in the output_data directory. 
 * VacationPy
   *  

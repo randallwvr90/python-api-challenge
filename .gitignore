@@ -9,6 +9,7 @@ Instructions/
 instructions.md
 .DS_Store
 */.DS_Store
+*.swp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
